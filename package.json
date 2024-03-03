@@ -1,12 +1,12 @@
 {
-    "name": "ordi",
-    "version": "1.0.3",
+    "name": "cucu-ord",
+    "version": "1.0.2",
     "description": "Easily get the ordinal 'st', 'nd', 'rd' or 'th' of cardinal numbers.",
     "main": "ord.js",
-    "homepage": "https://github.com/chilts/ord/",
+    "homepage": "https://github.com/0xCucu/ordi",
     "repository": {
         "type": "git",
-        "url": "https://github.com/chilts/ord.git"
+        "url": "https://github.com/0xCucu/ordi"
     },
     "bugs": {
         "url": "https://github.com/chilts/ord/issues",
